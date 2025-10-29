@@ -4,11 +4,8 @@
 	import Tooltip from '../atoms/Tooltip.svelte';
 
 	// ===== Efek mengetik otomatis =====
-	let fullText = `Hey there, I'm afn! :] I'm a digital artist and designer based in Canada. 
-	I’ve taken art seriously since 2017, and have been doodling silly anime characters since 2020. 
-	I also started to pivot into some programming, which landed me to study at the University of Waterloo 
-	for computer science. In my free time, I like to contribute to open source as a web developer. 
-	I'm most notable for working on ReVanced, which is probably how you found me here.`;
+	let fullText = `Zerox is a basic implementation of AGI technology. It is not designed to perform specific tasks, but instead acts and behaves based on its own desires. This web interface was built to allow users to interact with the AGI and observe how it forms its own body.
+`;
 
 	let displayedText = '';
 	let index = 0;
@@ -46,7 +43,7 @@
 	</div>
 
 	<div class="text">
-		<h2>what is zerox ?</h2>
+		<h2>what is more secret than zerox?</h2>
 
 		<!-- efek mengetik otomatis -->
 		<p class="typing">
@@ -54,9 +51,7 @@
 		</p>
 
 		<!-- contoh tambahan: umur real-time -->
-		<p class="age">
-			Age: <Tooltip tip={age}><span>{Math.floor(Number(age))}</span></Tooltip>
-		</p>
+		
 	</div>
 </section>
 
