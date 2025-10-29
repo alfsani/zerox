@@ -6,17 +6,17 @@
 
 <div class="socials-container">
 	<!-- Twitter -->
-	<Social tip="Twitter" link="https://twitter.com/username_kamu">
+	<Social tip="Twitter" link="https://x.com/zeroxsociety">
 		<TwitterIcon color="var(--accent)" size="22px" />
 	</Social>
 
 	<!-- Telegram -->
-	<Social tip="Telegram" link="https://t.me/username_kamu">
+	<Social tip="Telegram" link="#">
 		<TelegramIcon color="var(--accent)" size="22px" />
 	</Social>
 
 	<!-- DexScreener -->
-	<Social tip="DexScreener" link="https://dexscreener.com/yourtokenlink">
+	<Social tip="DexScreener" link="#">
 		<img src="/dexscreener.svg" alt="DexScreener" class="icon" />
 	</Social>
 
