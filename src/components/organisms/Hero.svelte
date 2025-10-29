@@ -12,7 +12,7 @@
 
 <section id="home" class="wrapper">
 	<div>
-		<h1>0x</h1>
+		<h1>0xxxx</h1>
 		<h4><br />art </h4>
 		<div class="socials">
 			<Socials />
