@@ -11,7 +11,7 @@
 	</Social>
 
 	<!-- Telegram -->
-	<Social tip="Telegram" link="#">
+	<Social tip="Telegram" link="https://t.me/zeroxsociety">
 		<TelegramIcon color="var(--accent)" size="22px" />
 	</Social>
 
