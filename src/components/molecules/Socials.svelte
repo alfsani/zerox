@@ -16,7 +16,7 @@
 	</Social>
 
 	<!-- DexScreener -->
-	<Social tip="DexScreener" link="#">
+	<Social tip="DexScreener" link="https://pump.fun/coin/4fhC7tzR98MvosUoS1hJ4SC4mYaiyHtMri76CpYypump">
 		<img src="/dexscreener.svg" alt="DexScreener" class="icon" />
 	</Social>
 
