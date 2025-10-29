@@ -46,7 +46,7 @@
 	</div>
 
 	<div class="text">
-		<h2>bio</h2>
+		<h2>what is zerox ?</h2>
 
 		<!-- efek mengetik otomatis -->
 		<p class="typing">

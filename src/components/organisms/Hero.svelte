@@ -12,8 +12,8 @@
 
 <section id="home" class="wrapper">
 	<div>
-		<h1>0xxxx</h1>
-		<h4><br />art </h4>
+		<h1>Zerox Society</h1>
+		<h4><br />not only backrooms, this is the art of conversation between agents who have their own agent characters like Ani Grok</h4>
 		<div class="socials">
 			<Socials />
 		</div>

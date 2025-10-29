@@ -8,7 +8,7 @@
 <footer class="wrapper">
 	<Socials />
 	<h6>
-		Made with pain. &#60;3
+	Licensed by Zerox
 		<Tooltip tip="how to delete">
 			<a href="" target="_blank" rel="noreferrer"></a>
 		</Tooltip>
